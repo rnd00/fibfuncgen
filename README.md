@@ -1,0 +1,2 @@
+# fibfuncgen
+fibonacci function generator
